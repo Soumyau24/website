@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": "6",
+      "firstName": "Soumya",
+      "lastName": "Udutha",
+      "email": "uduthasoumya79@gmail.com",
+      "mobile": "9182756736",
+      "salary": "500000"
+    },
+    {
+      "id": "7",
+      "firstName": "Rizwana",
+      "lastName": "r",
+      "email": "rizwana@gmail.com",
+      "mobile": "9187263546",
+      "salary": 200000
+    },
+    {
+      "id": "15",
+      "firstName": "RAVALI",
+      "lastName": "J",
+      "email": "ravali@gmail.com",
+      "mobile": "9182756745",
+      "salary": 200000
+    },
+    {
+      "id": "45",
+      "firstName": "pooja",
+      "lastName": "j",
+      "email": "pooja@gmail.com",
+      "mobile": "9182756756",
+      "salary": 800000
+    },
+    {
+      "id": "46",
+      "firstName": "shirisha",
+      "lastName": "Banoth",
+      "email": "shirisha@gmail.com",
+      "mobile": "8106528640",
+      "salary": 60000
+    },
+    {
+      "id": "47",
+      "firstName": "Manisha",
+      "lastName": "B",
+      "email": "manisha@gmail.com",
+      "mobile": "6303196480",
+      "salary": 20000
+    },
+    {
+      "id": "48",
+      "firstName": "Pavani",
+      "lastName": "D",
+      "email": "pavani@gmail.com",
+      "mobile": "8897884563",
+      "salary": 90000
+    },
+    {
+      "id": "49",
+      "firstName": "sandhya",
+      "lastName": "k",
+      "email": "sandhya@gmail.com",
+      "mobile": "8763678291",
+      "salary": 40000
+    },
+    {
+      "id": "50",
+      "firstName": "Shruthi ",
+      "lastName": "Vishvanthula",
+      "email": "shruthiV@gmail.com",
+      "mobile": "9182756745",
+      "salary": 60000
+    }
+  ]
+}

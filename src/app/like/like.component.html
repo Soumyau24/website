@@ -1,0 +1,17 @@
+<div class="bg">
+<div class="container">
+    <div class="row">
+        <div *ngFor="let like of video" class="col-md-4  mt-5">
+            <div class="card" style="width: 18rem;">
+                <img [src]="like.Like" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">{{like.vName}}</h5>
+                  <p class="card-text" style="color: blue; ">Some suggetions in optevus side if you like these video click like button and otherwise you click dislike button. You want to see these video you click Click button </p>
+                  <a (click)="LikeCounter(like)" class="btn btn-primary" >Like </a> {{like.like}} &nbsp;<a (click)="DislikeCounter(like)" class="btn btn-danger">Dislike</a>{{like.Dislike}}
+                 <a  class="btn btn-primary" href="https://youtu.be/CPAhCOMhJds">Click</a> 
+                </div>
+              </div>
+        </div>
+    </div>
+</div>
+</div>

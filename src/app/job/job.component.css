@@ -1,0 +1,67 @@
+.bg{
+  /* background-image: url("https://www.shutterstock.com/image-illustration/business-technology-internet-network-concept-260nw-2141340231.jpg"); */
+  /* background-image: url("https://www.shutterstock.com/image-photo/jobs-person-using-laptop-on-260nw-1185550384.jpg"); */
+  background-image: url("https://st.depositphotos.com/1009659/4157/i/600/depositphotos_41577599-stock-photo-jobs-in-blue-glass-cubes.jpg");
+  background-size: cover;
+  height: 70vh;
+}
+.header-title {
+  position: absolute;
+  top: 15rem;
+  left: 3rem;
+  letter-spacing: 3;
+  font-weight: bolder;
+  font-size: 72px;
+  color: white;
+  text-shadow: 4px 2px 0px rgba(0, 0, 0, 0.2);
+
+
+  /* position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px; */
+
+}
+.header-title > span {
+  color: palevioletred;
+}
+.search-wrapper{
+  width: 60%;
+  margin: auto;
+  min-width: 300px;
+  height: 3.5rem;
+  position: relative;
+}
+.search-box{
+  width: 50%;
+  position: absolute;
+  background-color: gray;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
+  top: -45%;
+  height: 100%;
+  width: 100%;
+   }
+   .search-card{
+    /* display: flex;
+    justify-content: space-between;
+    height: 100%;
+    padding: 5rem; */
+    top: 28rem;
+   }
+   .search-input{
+    /* height: 100%;
+    width: 100%;
+    border:none;
+    padding: 0.5rem; */
+    top: 28rem;
+  }
+   /* .search-button{
+    width: 200%;
+    background: blue;
+    border: none;
+    color: white;
+    cursor: pointer;
+   } */
+   /* .btn btn-primary{
+    position: right;
+   } */

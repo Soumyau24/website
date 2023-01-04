@@ -1,0 +1,226 @@
+{
+    "questions": [
+        {
+        "questionText":"Which of the following is correct about TypeScript?",
+        "options": [
+            {
+            "text": "Angular is based on TS and superset of javascript"
+            
+        },
+    {
+        "text": "Angular is based on TS."
+    },
+{
+    "text": "This is a superset of JavaScript."
+},
+{
+    "text": "TypeScript is maintained by Microsoft."
+ },
+ {
+     "text": "All of the above.",
+     "correct":true
+ }
+        ],
+
+"explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+
+
+    {
+        "questionText":"What is .subscribe?",
+        "options": [{
+            "text": "Streams data in asynchronously"
+           
+        },
+    {
+        "text": "Streams data in synchronously"
+    },
+{
+    "text": "Both",
+    "correct":true
+},
+{
+    "text": "none of the above"
+},
+{
+    "text": "angular object template"
+}
+        ],
+
+"explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+
+
+    {
+        "questionText":"What does AOT stand for?",
+        "options": [{
+            "text": "Ahead-Of-Time Compilation",
+            "correct": true
+        },
+    {
+        "text": "Angular Object Templates"
+    },
+{
+    "text": "Both"
+},
+{
+    "text": "none of the above"
+},
+{
+    "text": "Angular Of Templates"
+}
+        ],
+
+"explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+
+
+
+{
+        "questionText":"Which of the following is not a hook application life cycle?",
+        "options": [{
+            "text": "ngOnChnages"
+           
+        },
+    {
+        "text": "ngViewStart",
+        "correct": true
+    },
+{
+    "text": "ngOnInit"
+},
+{
+    "text": "none of the above"
+},
+{
+    "text": "&"
+}
+        ],
+
+"explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+
+  
+    {
+        "questionText":"Router is part which of the following module?",
+        "options": [{
+            "text": "@angular/core"
+            
+        },
+    {
+        "text": "@angular/router",
+        "correct": true
+    },
+{
+    "text": "Both"
+},
+{
+    "text": "none of the above"
+},
+{
+    "text": "@angular/core/router"
+}
+        ],
+
+"explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+    
+    {
+        "questionText":"RXJS can be used for",
+        "options": [{
+            "text": "Browser"
+            
+        },
+    {
+        "text": "Server Side"
+    },
+{
+    "text": "Both",
+    "correct": true
+},
+{
+    "text": "cloud side"
+},
+{
+    "text": "none of the above"
+}
+        ],
+
+"explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+
+
+    {
+        "questionText":"Which angular decorator allows us to define the pipe name that is globally available for use in any template in the across application?",
+        "options": [{
+            "text": "pipeName"
+            
+        },
+    {
+        "text": "pipeDeco"
+    },
+{
+    "text": "pipe",
+    "correct":true
+},
+{
+    "text": "none of the above"
+},
+{
+    "text": "used link external"
+}
+        ],
+
+"explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+
+
+    {
+        "questionText":"What is the decorator used for configuring your module class?",
+        "options": [{
+            "text": "@NgModule",
+            "correct": true
+        },
+    {
+        "text": "@NgApp"
+    },
+{
+    "text": "Both"
+},
+{
+    "text": "None of the above"
+},
+{
+    "text": "@pipe"
+}
+        ],
+
+"explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+
+    {
+        "questionText":"What is used .angular-cli.json",
+        "options": [{
+            "text": "Used to configure your angular 2 project",
+            "correct": true
+        },
+    {
+        "text": "Used to link external files"
+    },
+{
+    "text": "used to install required project packages"
+},
+{
+    "text": "None of the above"
+},
+{
+    "text": "Used to link internal files"
+}
+        ],
+
+"explanation": "TS uses a colon (:) to separate the property name from the property type"
+    }
+
+
+]
+}

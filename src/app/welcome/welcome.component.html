@@ -1,0 +1,19 @@
+<div class="container bg-light py-5">
+    <h1 class="display-5 fw-bold" style="color: purple;">welcome Optevus Assessment Demo</h1><br>
+    <p class="col-md-8 fs-4">This Quiz will contain total 9 questions. Each Question holds 10 Points</p><br>
+    <h4 style="color: red;">Rules:</h4> 
+    
+    <ol>
+        <h5><li>Correct Question gives you 10 points</li></h5>
+        <h5><li>Incorrect question gives you -10 points</li></h5>
+        <h5><li>You will have 60 sec to answer each question</li></h5>
+        <h5><li>Refereshing the page will reset the Quiz</li></h5>
+    </ol>
+    <h1 style="font-family: sans-serif;text-align: center;color: darkgreen;">All the Best!!</h1>
+<div class="name col-md-4 my-3">
+<h5><label for="" style="color: green;">Enter your name:</label></h5>
+    <input #name type="text" class="form-control">
+
+</div>
+<button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">Start the Quiz!!</button>
+</div>
